@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+<parameter name="val1" value="10"/>
+  <parameter name="val2" value="20"/>
+  <test name="Test">
+    <classes>
+      <class name="TestNGPrograms.Day7_Param"/>
+    </classes>
+     <test name="MultiplicationTest">
+      <classes>
+      <class name="TestNGPrograms.Day7_Multiply"/>
+    </classes>
+  </test> <!-- Test -->
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
