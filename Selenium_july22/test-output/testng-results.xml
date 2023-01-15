@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-03T16:51:40 IST" name="Suite" finished-at="2023-01-03T16:52:49 IST" duration-ms="68454">
+    <groups>
+    </groups>
+    <test started-at="2023-01-03T16:51:40 IST" name="RetryMultiple" finished-at="2023-01-03T16:52:49 IST" duration-ms="68454">
+      <class name="TestNGPrograms.Day12_ParallelTest">
+        <test-method signature="AccountTest()[pri:0, instance:TestNGPrograms.Day12_ParallelTest@6e20b53a]" started-at="2023-01-03T16:51:40 IST" name="AccountTest" finished-at="2023-01-03T16:51:40 IST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccountTest -->
+        <test-method signature="AccountTest()[pri:0, instance:TestNGPrograms.Day12_ParallelTest@6e20b53a]" started-at="2023-01-03T16:51:40 IST" name="AccountTest" finished-at="2023-01-03T16:51:40 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccountTest -->
+        <test-method signature="AccountTest()[pri:0, instance:TestNGPrograms.Day12_ParallelTest@6e20b53a]" started-at="2023-01-03T16:51:40 IST" name="AccountTest" finished-at="2023-01-03T16:51:40 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccountTest -->
+        <test-method signature="ChromeTest()[pri:0, instance:TestNGPrograms.Day12_ParallelTest@6e20b53a]" started-at="2023-01-03T16:51:40 IST" name="ChromeTest" finished-at="2023-01-03T16:51:57 IST" duration-ms="16672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChromeTest -->
+        <test-method signature="EdgeTest()[pri:0, instance:TestNGPrograms.Day12_ParallelTest@6e20b53a]" started-at="2023-01-03T16:51:57 IST" name="EdgeTest" finished-at="2023-01-03T16:52:10 IST" duration-ms="12930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeTest -->
+        <test-method signature="FirefoxTest()[pri:0, instance:TestNGPrograms.Day12_ParallelTest@6e20b53a]" started-at="2023-01-03T16:52:10 IST" name="FirefoxTest" finished-at="2023-01-03T16:52:49 IST" duration-ms="38719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirefoxTest -->
+      </class> <!-- TestNGPrograms.Day12_ParallelTest -->
+    </test> <!-- RetryMultiple -->
+  </suite> <!-- Suite -->
+</testng-results>

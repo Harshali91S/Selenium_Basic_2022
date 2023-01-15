@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="Failed" name="Suite">
+ <listerers>
+   <listerer class-name="TestNGPrograms.Day12_ListerersTest2"/>
+ </listerers>
+  <test name="RetryMultiple">
+    <classes>
+      <class name="TestNGPrograms.Day12_ParallelTest"/> 
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
